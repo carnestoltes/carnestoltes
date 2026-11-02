@@ -29,7 +29,6 @@ Currently working at **BSG Ingenieros** designing and programming data acquisiti
 | Project | What it does | Stack |
 |---|---|---|
 | [bridge-mqtt-modbus](https://github.com/carnestoltes/bridge-mqtt-modbus) | Containerized IIoT Data Pipeline: Modbus TCP to MQTT with Automated Closed-Loop Actuation  | Python |
-| [bk2245-logger](https://github.com/carnestoltes/bk2245-logger) | Pulls measurements from a Brüel & Kjær 2245 sound meter and exposes the data | Python |
 | [chartsThingsBoard](https://github.com/carnestoltes/chartsThingsBoard) | SaaS-based tool to visualise and exploit telemetry from ThingsBoard | Python |
 | [mqtt_client](https://github.com/carnestoltes/mqtt_client) | MQTT client for ESP32 — transmits images over pub/sub using SPIFFS | C++, ESP32 |
 
