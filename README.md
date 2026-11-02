@@ -1,4 +1,4 @@
-# Hi, I'm Rubén 👋
+# Hi, I'm Rubén 👋 
 
 **Telematics Engineer & IoT Systems Developer**  
 I build systems that connect physical devices to the digital world — acquiring data from sensors and industrial equipment, processing it on embedded hardware, and exposing it through reliable communication protocols.
